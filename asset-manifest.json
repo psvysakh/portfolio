@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.776dcf6a.chunk.css",
-    "main.js": "/portfolio/static/js/main.a36a05d4.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a36a05d4.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.b884efbc.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b884efbc.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.8303c0f0.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.8303c0f0.js.map",
     "static/css/2.27dd871e.chunk.css": "/portfolio/static/css/2.27dd871e.chunk.css",
@@ -22,7 +22,7 @@
     "static/media/style.css": "/portfolio/static/media/pre.4410c5ba.svg",
     "static/media/home-main.359935c3.svg": "/portfolio/static/media/home-main.359935c3.svg",
     "static/media/interglass.ce6753bb.png": "/portfolio/static/media/interglass.ce6753bb.png",
-    "static/media/invitation.5a1372d7.png": "/portfolio/static/media/invitation.5a1372d7.png",
+    "static/media/invitation.ce596588.jpg": "/portfolio/static/media/invitation.ce596588.jpg",
     "static/media/logo.cf878501.png": "/portfolio/static/media/logo.cf878501.png",
     "static/media/magazine.db6fe4a8.jpg": "/portfolio/static/media/magazine.db6fe4a8.jpg",
     "static/media/mastermindad.44e2b132.png": "/portfolio/static/media/mastermindad.44e2b132.png",
@@ -36,6 +36,6 @@
     "static/css/2.27dd871e.chunk.css",
     "static/js/2.ce197395.chunk.js",
     "static/css/main.776dcf6a.chunk.css",
-    "static/js/main.a36a05d4.chunk.js"
+    "static/js/main.b884efbc.chunk.js"
   ]
 }

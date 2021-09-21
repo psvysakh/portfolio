@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.776dcf6a.chunk.css",
-    "main.js": "/portfolio/static/js/main.b884efbc.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.b884efbc.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.909cb9fb.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.909cb9fb.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.8303c0f0.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.8303c0f0.js.map",
     "static/css/2.27dd871e.chunk.css": "/portfolio/static/css/2.27dd871e.chunk.css",
@@ -21,13 +21,16 @@
     "static/media/casal.bba71e88.png": "/portfolio/static/media/casal.bba71e88.png",
     "static/media/style.css": "/portfolio/static/media/pre.4410c5ba.svg",
     "static/media/home-main.359935c3.svg": "/portfolio/static/media/home-main.359935c3.svg",
+    "static/media/interglass-2.efb80e81.jpg": "/portfolio/static/media/interglass-2.efb80e81.jpg",
     "static/media/interglass.ce6753bb.png": "/portfolio/static/media/interglass.ce6753bb.png",
     "static/media/invitation.ce596588.jpg": "/portfolio/static/media/invitation.ce596588.jpg",
     "static/media/logo.cf878501.png": "/portfolio/static/media/logo.cf878501.png",
     "static/media/magazine.db6fe4a8.jpg": "/portfolio/static/media/magazine.db6fe4a8.jpg",
     "static/media/mastermindad.44e2b132.png": "/portfolio/static/media/mastermindad.44e2b132.png",
+    "static/media/menu-drink.2e68a58e.jpg": "/portfolio/static/media/menu-drink.2e68a58e.jpg",
     "static/media/planitium.f52ee0ee.png": "/portfolio/static/media/planitium.f52ee0ee.png",
     "static/media/poster-3.845a0b35.jpg": "/portfolio/static/media/poster-3.845a0b35.jpg",
+    "static/media/rolling-invite.40d659e1.jpg": "/portfolio/static/media/rolling-invite.40d659e1.jpg",
     "static/media/rotary-new.d9636022.jpg": "/portfolio/static/media/rotary-new.d9636022.jpg",
     "static/media/vysakh-resume.4b1b1e8c.pdf": "/portfolio/static/media/vysakh-resume.4b1b1e8c.pdf"
   },
@@ -36,6 +39,6 @@
     "static/css/2.27dd871e.chunk.css",
     "static/js/2.ce197395.chunk.js",
     "static/css/main.776dcf6a.chunk.css",
-    "static/js/main.b884efbc.chunk.js"
+    "static/js/main.909cb9fb.chunk.js"
   ]
 }
